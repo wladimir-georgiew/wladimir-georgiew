@@ -1,6 +1,3 @@
-
-## 🚀 About Me
-I'm a back-end web developer, interested in the .NET Ecosystem
 ## 🛠 Skills
 #### Experienced
 [![My Skills](https://skillicons.dev/icons?i=net,cs,sqlite,visualstudio,stackoverflow)](https://skillicons.dev)
