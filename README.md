@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**wladimir-georgiew/wladimir-georgiew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a back-end web developer, interested in the .NET Ecosystem
+## 🛠 Skills
+#### Experienced
+[![My Skills](https://skillicons.dev/icons?i=net,cs,sqlite,visualstudio,stackoverflow)](https://skillicons.dev)
+#### Casual
+[![My Skills](https://skillicons.dev/icons?i=azure,js,ts,html,css,postman,postgres)](https://skillicons.dev)
+#### Aware
+[![My Skills](https://skillicons.dev/icons?i=react,angular)](https://skillicons.dev)
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-georgiev-238aa3194/)
