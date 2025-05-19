@@ -3,9 +3,9 @@
 I'm a back-end web developer, interested in the .NET Ecosystem. Check the *Pinned* section below to preview my projects
 ## 🛠 Skills
 #### Experienced
-[![My Skills](https://skillicons.dev/icons?i=net,cs,sqlite,visualstudio,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=net,cs,sqlite,visualstudio,postgres)](https://skillicons.dev)
 #### Casual
-[![My Skills](https://skillicons.dev/icons?i=azure,js,ts,html,css,postman,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,js,ts,html,css,postman)](https://skillicons.dev)
 #### Aware
 [![My Skills](https://skillicons.dev/icons?i=react,angular)](https://skillicons.dev)
 ## 🔗 Links
